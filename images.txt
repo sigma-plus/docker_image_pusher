@@ -6,4 +6,3 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 postgres:15.8
 nginx:latest
-alphacep/kaldi-cn:latest
