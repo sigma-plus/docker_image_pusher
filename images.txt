@@ -12,5 +12,6 @@ redis:7.2-alpine
 eduardolat/pgbackweb:latest
 #企业云
 kodcloud/kodbox
+kodcloud/kodoffice:7.4.1.1
 mariadb:10.6
 redis:alpine
