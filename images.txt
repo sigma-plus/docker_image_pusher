@@ -8,6 +8,9 @@ postgres:15.8
 nginx:latest
 alphacep/kaldi-cn:latest
 postgres:16-alpine
-docmost/docmost:latest
 redis:7.2-alpine
 eduardolat/pgbackweb:latest
+#企业云
+kodcloud/kodbox
+mariadb:10.6
+redis:alpine
