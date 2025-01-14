@@ -16,3 +16,4 @@ kodcloud/kodoffice:7.4.1.1
 mariadb:10.6
 redis:alpine
 nextcloud/all-in-one:latest
+mattermost/mattermost-enterprise-edition
