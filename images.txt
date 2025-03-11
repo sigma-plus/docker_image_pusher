@@ -17,3 +17,5 @@ mariadb:10.6
 redis:alpine
 nextcloud/all-in-one:latest
 mattermost/mattermost-enterprise-edition:9.11.6
+# 靶场
+webgoat/webgoat
