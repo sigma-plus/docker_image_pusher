@@ -17,6 +17,6 @@ mariadb:10.6
 redis:alpine
 nextcloud/all-in-one:latest
 mattermost/mattermost-enterprise-edition:9.11.6
-# 靶场
-webgoat/webgoat
-8023/pikachu-expect
+loongarch64/python:3.11.7
+loongarch64/postgres:15.7-sid
+loongarch64/nginx:1.24.0
